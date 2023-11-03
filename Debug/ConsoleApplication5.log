@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Александр Матросов\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(219,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Александр Матросов\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(236,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication5.vcxproj -> C:\Users\Александр Матросов\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
